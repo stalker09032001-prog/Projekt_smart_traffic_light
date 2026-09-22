@@ -1,0 +1,1047 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              eeprom_config.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              button.o (__do_clear_bss)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                              display.o (__umulhisi3)
+C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eerd_block.o)
+                              eeprom_config.o (eeprom_read_block)
+C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eeupd_block.o)
+                              eeprom_config.o (eeprom_update_block)
+C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eeupd_byte.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eeupd_block.o) (eeprom_update_r18)
+
+Allocating common symbols
+Common symbol       size              file
+
+uart_buffer         0x40              uart.o
+rtc                 0x6               rtc.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .text          0x00000000        0x0 button.o
+ .data          0x00000000        0x0 button.o
+ .bss           0x00000000        0x0 button.o
+ .text          0x00000000        0x0 display.o
+ .data          0x00000000        0x0 display.o
+ .bss           0x00000000        0x0 display.o
+ .text          0x00000000        0x0 eeprom_config.o
+ .data          0x00000000        0x0 eeprom_config.o
+ .bss           0x00000000        0x0 eeprom_config.o
+ .text          0x00000000        0x0 gpio.o
+ .data          0x00000000        0x0 gpio.o
+ .bss           0x00000000        0x0 gpio.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .text          0x00000000        0x0 reset.o
+ .data          0x00000000        0x0 reset.o
+ .bss           0x00000000        0x0 reset.o
+ .text          0x00000000        0x0 rtc.o
+ .data          0x00000000        0x0 rtc.o
+ .bss           0x00000000        0x0 rtc.o
+ .text          0x00000000        0x0 traffic.o
+ .data          0x00000000        0x0 traffic.o
+ .bss           0x00000000        0x0 traffic.o
+ .text          0x00000000        0x0 traffic_auto.o
+ .data          0x00000000        0x0 traffic_auto.o
+ .bss           0x00000000        0x0 traffic_auto.o
+ .text          0x00000000        0x0 traffic_night.o
+ .data          0x00000000        0x0 traffic_night.o
+ .bss           0x00000000        0x0 traffic_night.o
+ .text          0x00000000        0x0 twi.o
+ .data          0x00000000        0x0 twi.o
+ .bss           0x00000000        0x0 twi.o
+ .text          0x00000000        0x0 uart.o
+ .data          0x00000000        0x0 uart.o
+ .bss           0x00000000        0x0 uart.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eerd_block.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eerd_block.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eerd_block.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eeupd_block.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eeupd_block.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eeupd_block.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eeupd_byte.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eeupd_byte.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eeupd_byte.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+LOAD button.o
+LOAD display.o
+LOAD eeprom_config.o
+LOAD gpio.o
+LOAD main.o
+LOAD reset.o
+LOAD rtc.o
+LOAD traffic.o
+LOAD traffic_auto.o
+LOAD traffic_night.o
+LOAD twi.o
+LOAD uart.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a
+END GROUP
+                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2740
+ *(.vectors)
+ .vectors       0x00000000       0x68 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000068                . = ALIGN (0x2)
+                0x00000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000068        0x0 linker stubs
+ *(.trampolines*)
+                0x00000068                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data.segment_g_table
+                0x00000068        0xa display.o
+ .progmem.data.segment_table
+                0x00000072        0xa display.o
+ .progmem.data.__c.1940
+                0x0000007c       0x32 main.o
+ .progmem.data.__c.1938
+                0x000000ae       0x1a main.o
+ .progmem.data.__c.2100
+                0x000000c8       0x55 uart.o
+ .progmem.data.__c.2098
+                0x0000011d        0xe uart.o
+ .progmem.data.__c.2096
+                0x0000012b       0x21 uart.o
+ .progmem.data.__c.2094
+                0x0000014c       0x11 uart.o
+ .progmem.data.__c.2092
+                0x0000015d       0x1d uart.o
+ .progmem.data.__c.2090
+                0x0000017a       0x12 uart.o
+ .progmem.data.__c.2088
+                0x0000018c       0x25 uart.o
+ .progmem.data.__c.2086
+                0x000001b1       0x24 uart.o
+ .progmem.data.__c.2084
+                0x000001d5       0x25 uart.o
+ .progmem.data.__c.2082
+                0x000001fa       0x30 uart.o
+ .progmem.data.__c.2080
+                0x0000022a       0x67 uart.o
+ .progmem.data.__c.2065
+                0x00000291      0x192 uart.o
+ .progmem.data.str_ok_reset
+                0x00000423       0x19 uart.o
+ .progmem.data.str_all_auto_zero
+                0x0000043c       0x24 uart.o
+ .progmem.data.str_rtc_unavailable
+                0x00000460       0x1d uart.o
+ .progmem.data.str_invalid_night_end
+                0x0000047d       0x1d uart.o
+ .progmem.data.str_invalid_night_start
+                0x0000049a       0x1f uart.o
+ .progmem.data.str_expected_off_word
+                0x000004b9       0x18 uart.o
+ .progmem.data.str_expected_on_word
+                0x000004d1       0x17 uart.o
+ .progmem.data.str_invalid_off
+                0x000004e8       0x1c uart.o
+ .progmem.data.str_invalid_on
+                0x00000504       0x1b uart.o
+ .progmem.data.str_expected_off
+                0x0000051f       0x1c uart.o
+ .progmem.data.str_expected_on
+                0x0000053b       0x1b uart.o
+ .progmem.data.str_too_many
+                0x00000556       0x1f uart.o
+ .progmem.data.str_expected_stages
+                0x00000575       0x1d uart.o
+ .progmem.data.str_invalid_auto
+                0x00000592       0x22 uart.o
+ .progmem.data.str_invalid_date
+                0x000005b4       0x18 uart.o
+ .progmem.data.str_invalid_time
+                0x000005cc       0x18 uart.o
+ .progmem.data.str_unknown
+                0x000005e4       0x1b uart.o
+ .progmem.data.str_mode_auto_night
+                0x000005ff       0x20 uart.o
+ .progmem.data.str_mode_night
+                0x0000061f       0x1b uart.o
+ .progmem.data.str_mode_auto
+                0x0000063a       0x1a uart.o
+ .progmem.data.str_mode_off
+                0x00000654       0x19 uart.o
+ .progmem.data.str_ok_auto_night
+                0x0000066d       0x2a uart.o
+ .progmem.data.str_ok_night
+                0x00000697       0x26 uart.o
+ .progmem.data.str_ok_auto
+                0x000006bd       0x25 uart.o
+ .progmem.data.str_ok_date
+                0x000006e2       0x11 uart.o
+ .progmem.data.str_ok_time
+                0x000006f3       0x11 uart.o
+ .progmem.data.str_request_ignored
+                0x00000704       0x3e uart.o
+                0x00000704                str_request_ignored
+ .progmem.data.str_ok_request
+                0x00000742       0x1b uart.o
+                0x00000742                str_ok_request
+ .progmem.data.str_rtc_ok
+                0x0000075d        0xa uart.o
+                0x0000075d                str_rtc_ok
+ .progmem.data.str_rtc_disabled
+                0x00000767       0x1c uart.o
+                0x00000767                str_rtc_disabled
+ .progmem.data.str_rtc_error
+                0x00000783       0x1e uart.o
+                0x00000783                str_rtc_error
+ .progmem.data.str_startup
+                0x000007a1      0x11a uart.o
+ .progmem.data.str_reset_software
+                0x000008bb       0x1e uart.o
+                0x000008bb                str_reset_software
+ .progmem.data.str_reset_power
+                0x000008d9        0xb uart.o
+                0x000008d9                str_reset_power
+                0x000008e4                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000008e4                __ctors_start = .
+ *(.ctors)
+                0x000008e4                __ctors_end = .
+                0x000008e4                __dtors_start = .
+ *(.dtors)
+                0x000008e4                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000008e4        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x000008e4                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000008e4        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ .init3         0x000008f0       0x12 reset.o
+                0x000008f0                Reset_Early_Init
+ *(.init3)
+ *(.init4)
+ .init4         0x00000902       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x00000902                __do_copy_data
+ .init4         0x00000918       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x00000918                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000928        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000930        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000930                __vector_22
+                0x00000930                __vector_24
+                0x00000930                __vector_12
+                0x00000930                __bad_interrupt
+                0x00000930                __vector_6
+                0x00000930                __vector_3
+                0x00000930                __vector_23
+                0x00000930                __vector_25
+                0x00000930                __vector_13
+                0x00000930                __vector_17
+                0x00000930                __vector_19
+                0x00000930                __vector_7
+                0x00000930                __vector_5
+                0x00000930                __vector_4
+                0x00000930                __vector_9
+                0x00000930                __vector_2
+                0x00000930                __vector_21
+                0x00000930                __vector_15
+                0x00000930                __vector_8
+                0x00000930                __vector_14
+                0x00000930                __vector_10
+                0x00000930                __vector_16
+                0x00000930                __vector_20
+                0x00000934                . = ALIGN (0x2)
+ *(.text.*)
+ .text.Button_Init
+                0x00000934       0x18 button.o
+                0x00000934                Button_Init
+ .text.Button_TimerTick
+                0x0000094c       0x14 button.o
+                0x0000094c                Button_TimerTick
+ .text.__vector_1
+                0x00000960       0x2c button.o
+                0x00000960                __vector_1
+ .text.Process_Button_Event
+                0x0000098c       0xf6 button.o
+                0x0000098c                Process_Button_Event
+ .text.Display_SetSegments
+                0x00000a82       0x2c display.o
+ .text.Display_DisableAll
+                0x00000aae        0x8 display.o
+                0x00000aae                Display_DisableAll
+ .text.Display_ClearSegments
+                0x00000ab6        0xa display.o
+                0x00000ab6                Display_ClearSegments
+ .text.Display_Off
+                0x00000ac0       0x20 display.o
+                0x00000ac0                Display_Off
+ .text.Display_SetNumber
+                0x00000ae0       0x22 display.o
+                0x00000ae0                Display_SetNumber
+ .text.Display_Refresh
+                0x00000b02       0xf6 display.o
+                0x00000b02                Display_Refresh
+ .text.Timer1_Init
+                0x00000bf8       0x1e display.o
+                0x00000bf8                Timer1_Init
+ .text.__vector_11
+                0x00000c16       0x4c display.o
+                0x00000c16                __vector_11
+ .text.EEPROM_CRC8
+                0x00000c62       0x3c eeprom_config.o
+ .text.EEPROM_Save
+                0x00000c9e       0xb4 eeprom_config.o
+                0x00000c9e                EEPROM_Save
+ .text.EEPROM_Load
+                0x00000d52      0x19e eeprom_config.o
+                0x00000d52                EEPROM_Load
+ .text.GPIO_Init
+                0x00000ef0       0x20 gpio.o
+                0x00000ef0                GPIO_Init
+ .text.main     0x00000f10       0xe0 main.o
+                0x00000f10                main
+ .text.Reset_Report
+                0x00000ff0       0x20 reset.o
+                0x00000ff0                Reset_Report
+ .text.MCU_Reset
+                0x00001010       0x26 reset.o
+                0x00001010                MCU_Reset
+ .text.RTC_WriteRegister
+                0x00001036       0x50 rtc.o
+ .text.Time_To_Seconds
+                0x00001086       0x40 rtc.o
+                0x00001086                Time_To_Seconds
+ .text.RTC_GetSecondsFromMidnight
+                0x000010c6       0x4a rtc.o
+                0x000010c6                RTC_GetSecondsFromMidnight
+ .text.Seconds_Difference
+                0x00001110       0x2e rtc.o
+                0x00001110                Seconds_Difference
+ .text.RTC_ReadTime
+                0x0000113e      0x14c rtc.o
+                0x0000113e                RTC_ReadTime
+ .text.RTC_SetTime
+                0x0000128a       0xa2 rtc.o
+                0x0000128a                RTC_SetTime
+ .text.RTC_SetDate
+                0x0000132c       0xb8 rtc.o
+                0x0000132c                RTC_SetDate
+ .text.RTC_Update
+                0x000013e4       0x4c rtc.o
+                0x000013e4                RTC_Update
+ .text.Traffic_AllOff
+                0x00001430        0x8 traffic.o
+                0x00001430                Traffic_AllOff
+ .text.Traffic_Stage1
+                0x00001438        0xc traffic.o
+                0x00001438                Traffic_Stage1
+ .text.Traffic_Stage2
+                0x00001444        0xc traffic.o
+                0x00001444                Traffic_Stage2
+ .text.Traffic_Stage3
+                0x00001450        0xc traffic.o
+                0x00001450                Traffic_Stage3
+ .text.Traffic_Stage4
+                0x0000145c        0xc traffic.o
+                0x0000145c                Traffic_Stage4
+ .text.Traffic_Night
+                0x00001468       0x10 traffic.o
+                0x00001468                Traffic_Night
+ .text.Set_Mode
+                0x00001478       0x92 traffic.o
+                0x00001478                Set_Mode
+ .text.Auto_EnterStage
+                0x0000150a       0xf2 traffic_auto.o
+                0x0000150a                Auto_EnterStage
+ .text.Auto_Initialize
+                0x000015fc       0x7a traffic_auto.o
+                0x000015fc                Auto_Initialize
+ .text.Process_Auto
+                0x00001676      0x166 traffic_auto.o
+                0x00001676                Process_Auto
+ .text.Is_Night_Time
+                0x000017dc       0xac traffic_night.o
+                0x000017dc                Is_Night_Time
+ .text.Process_Night
+                0x00001888       0xca traffic_night.o
+                0x00001888                Process_Night
+ .text.Process_Auto_Night
+                0x00001952       0x46 traffic_night.o
+                0x00001952                Process_Auto_Night
+ .text.TWI_Init
+                0x00001998       0x12 twi.o
+                0x00001998                TWI_Init
+ .text.TWI_Start
+                0x000019aa       0x54 twi.o
+                0x000019aa                TWI_Start
+ .text.TWI_Write
+                0x000019fe       0x24 twi.o
+                0x000019fe                TWI_Write
+ .text.TWI_ReadACK
+                0x00001a22       0x16 twi.o
+                0x00001a22                TWI_ReadACK
+ .text.TWI_ReadNACK
+                0x00001a38       0x16 twi.o
+                0x00001a38                TWI_ReadNACK
+ .text.TWI_Stop
+                0x00001a4e        0x8 twi.o
+                0x00001a4e                TWI_Stop
+ .text.Str_Equals
+                0x00001a56       0x4a uart.o
+ .text.Str_StartsWith
+                0x00001aa0       0x1a uart.o
+ .text.Parse_Time
+                0x00001aba       0xf2 uart.o
+ .text.Get_Token
+                0x00001bac       0x68 uart.o
+ .text.Parse_XXX
+                0x00001c14       0xaa uart.o
+ .text.UART_Init
+                0x00001cbe       0x1c uart.o
+                0x00001cbe                UART_Init
+ .text.UART_SendChar
+                0x00001cda       0x10 uart.o
+                0x00001cda                UART_SendChar
+ .text.UART_SendString
+                0x00001cea       0x1e uart.o
+                0x00001cea                UART_SendString
+ .text.UART_SendString_P
+                0x00001d08       0x24 uart.o
+                0x00001d08                UART_SendString_P
+ .text.UART_SendNumber
+                0x00001d2c       0xb4 uart.o
+                0x00001d2c                UART_SendNumber
+ .text.UART_Send2
+                0x00001de0       0x36 uart.o
+                0x00001de0                UART_Send2
+ .text.__vector_18
+                0x00001e16       0x7e uart.o
+                0x00001e16                __vector_18
+ .text.Process_Command
+                0x00001e94      0x81c uart.o
+                0x00001e94                Process_Command
+ .text.UART_StartupMessage
+                0x000026b0        0xa uart.o
+                0x000026b0                UART_StartupMessage
+ .text.libgcc.mul
+                0x000026ba       0x1e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                0x000026ba                __umulhisi3
+ .text.avr-libc
+                0x000026d8       0x20 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eerd_block.o)
+                0x000026d8                eeprom_read_block
+                0x000026dc                eeprom_read_blraw
+ .text.avr-libc
+                0x000026f8       0x20 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eeupd_block.o)
+                0x000026f8                eeprom_update_block
+ .text.avr-libc
+                0x00002718       0x24 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eeupd_byte.o)
+                0x00002718                eeprom_update_byte
+                0x0000271a                eeprom_update_r18
+                0x0000273c                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000273c        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x0000273c                _exit
+                0x0000273c                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000273c        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00002740                _etext = .
+
+.data           0x00800100       0xc8 load address 0x00002740
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.night_end_hour
+                0x00800100        0x1 eeprom_config.o
+                0x00800100                night_end_hour
+ .data.night_start_hour
+                0x00800101        0x1 eeprom_config.o
+                0x00800101                night_start_hour
+ .data.night_off_time
+                0x00800102        0x2 eeprom_config.o
+                0x00800102                night_off_time
+ .data.night_on_time
+                0x00800104        0x2 eeprom_config.o
+                0x00800104                night_on_time
+ .data.auto_stage_time
+                0x00800106        0x8 eeprom_config.o
+                0x00800106                auto_stage_time
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x0080010e       0xba uart.o
+                                 0xbe (size before relaxing)
+ *(.gnu.linkonce.r*)
+                0x008001c8                . = ALIGN (0x2)
+                0x008001c8                _edata = .
+                0x008001c8                PROVIDE (__data_end, .)
+
+.bss            0x008001c8       0x65
+                0x008001c8                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.button_debounce_counter
+                0x008001c8        0x1 button.o
+ .bss.button_event
+                0x008001c9        0x1 button.o
+                0x008001c9                button_event
+ .bss.display_enabled
+                0x008001ca        0x1 display.o
+ .bss.display_digit
+                0x008001cb        0x1 display.o
+ .bss.display_value
+                0x008001cc        0x2 display.o
+ .bss.night_end_second
+                0x008001ce        0x1 eeprom_config.o
+                0x008001ce                night_end_second
+ .bss.night_end_minute
+                0x008001cf        0x1 eeprom_config.o
+                0x008001cf                night_end_minute
+ .bss.night_start_second
+                0x008001d0        0x1 eeprom_config.o
+                0x008001d0                night_start_second
+ .bss.night_start_minute
+                0x008001d1        0x1 eeprom_config.o
+                0x008001d1                night_start_minute
+ .bss.current_mode
+                0x008001d2        0x1 eeprom_config.o
+                0x008001d2                current_mode
+ .bss.rtc_error
+                0x008001d3        0x1 rtc.o
+                0x008001d3                rtc_error
+ .bss.auto_state_initialized
+                0x008001d4        0x1 traffic_auto.o
+                0x008001d4                auto_state_initialized
+ .bss.stage_start_time
+                0x008001d5        0x4 traffic_auto.o
+                0x008001d5                stage_start_time
+ .bss.pedestrian_request_time
+                0x008001d9        0x4 traffic_auto.o
+                0x008001d9                pedestrian_request_time
+ .bss.pedestrian_request
+                0x008001dd        0x1 traffic_auto.o
+                0x008001dd                pedestrian_request
+ .bss.current_stage
+                0x008001de        0x1 traffic_auto.o
+                0x008001de                current_stage
+ .bss.night_state_initialized
+                0x008001df        0x1 traffic_night.o
+                0x008001df                night_state_initialized
+ .bss.night_state_start
+                0x008001e0        0x4 traffic_night.o
+                0x008001e0                night_state_start
+ .bss.night_led_on
+                0x008001e4        0x1 traffic_night.o
+                0x008001e4                night_led_on
+ .bss.uart_command_ready
+                0x008001e5        0x1 uart.o
+                0x008001e5                uart_command_ready
+ .bss.uart_index
+                0x008001e6        0x1 uart.o
+                0x008001e6                uart_index
+ *(COMMON)
+ COMMON         0x008001e7        0x6 rtc.o
+                0x008001e7                rtc
+ COMMON         0x008001ed       0x40 uart.o
+                0x008001ed                uart_buffer
+                0x0080022d                PROVIDE (__bss_end, .)
+                0x00002740                __data_load_start = LOADADDR (.data)
+                0x00002808                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080022d        0x2
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+ .noinit        0x0080022d        0x2 reset.o
+                0x0080022d                software_reset_flag
+                0x0080022e                reset_cause
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x0080022f                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000       0x17
+ *(.eeprom*)
+ .eeprom        0x00810000       0x17 eeprom_config.o
+                0x00810017                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 button.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 display.o
+ .comment       0x00000030       0x31 eeprom_config.o
+ .comment       0x00000030       0x31 gpio.o
+ .comment       0x00000030       0x31 main.o
+ .comment       0x00000030       0x31 reset.o
+ .comment       0x00000030       0x31 rtc.o
+ .comment       0x00000030       0x31 traffic.o
+ .comment       0x00000030       0x31 traffic_auto.o
+ .comment       0x00000030       0x31 traffic_night.o
+ .comment       0x00000030       0x31 twi.o
+ .comment       0x00000030       0x31 uart.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x368
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x38 button.o
+ .debug_aranges
+                0x00000038       0x58 display.o
+ .debug_aranges
+                0x00000090       0x30 eeprom_config.o
+ .debug_aranges
+                0x000000c0       0x20 gpio.o
+ .debug_aranges
+                0x000000e0       0x20 main.o
+ .debug_aranges
+                0x00000100       0x30 reset.o
+ .debug_aranges
+                0x00000130       0x58 rtc.o
+ .debug_aranges
+                0x00000188       0x50 traffic.o
+ .debug_aranges
+                0x000001d8       0x30 traffic_auto.o
+ .debug_aranges
+                0x00000208       0x30 traffic_night.o
+ .debug_aranges
+                0x00000238       0x48 twi.o
+ .debug_aranges
+                0x00000280       0x88 uart.o
+ .debug_aranges
+                0x00000308       0x20 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eerd_block.o)
+ .debug_aranges
+                0x00000328       0x20 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eeupd_block.o)
+ .debug_aranges
+                0x00000348       0x20 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eeupd_byte.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x4b3a
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5f4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_info    0x000005f4      0x329 button.o
+ .debug_info    0x0000091d      0x303 display.o
+ .debug_info    0x00000c20      0x4a7 eeprom_config.o
+ .debug_info    0x000010c7       0xd1 gpio.o
+ .debug_info    0x00001198      0x373 main.o
+ .debug_info    0x0000150b      0x170 reset.o
+ .debug_info    0x0000167b      0x61c rtc.o
+ .debug_info    0x00001c97      0x338 traffic.o
+ .debug_info    0x00001fcf      0x51a traffic_auto.o
+ .debug_info    0x000024e9      0x3e4 traffic_night.o
+ .debug_info    0x000028cd      0x138 twi.o
+ .debug_info    0x00002a05     0x1f2d uart.o
+ .debug_info    0x00004932       0xad C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eerd_block.o)
+ .debug_info    0x000049df       0xae C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eeupd_block.o)
+ .debug_info    0x00004a8d       0xad C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eeupd_byte.o)
+
+.debug_abbrev   0x00000000     0x17bf
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5a2 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_abbrev  0x000005a2      0x181 button.o
+ .debug_abbrev  0x00000723      0x11b display.o
+ .debug_abbrev  0x0000083e      0x1fc eeprom_config.o
+ .debug_abbrev  0x00000a3a       0x70 gpio.o
+ .debug_abbrev  0x00000aaa       0xe2 main.o
+ .debug_abbrev  0x00000b8c       0xe3 reset.o
+ .debug_abbrev  0x00000c6f      0x1ed rtc.o
+ .debug_abbrev  0x00000e5c      0x13c traffic.o
+ .debug_abbrev  0x00000f98      0x202 traffic_auto.o
+ .debug_abbrev  0x0000119a      0x1ac traffic_night.o
+ .debug_abbrev  0x00001346       0xa5 twi.o
+ .debug_abbrev  0x000013eb      0x398 uart.o
+ .debug_abbrev  0x00001783       0x14 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eerd_block.o)
+ .debug_abbrev  0x00001797       0x14 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eeupd_block.o)
+ .debug_abbrev  0x000017ab       0x14 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eeupd_byte.o)
+
+.debug_line     0x00000000     0x2483
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x133 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_line    0x00000133      0x1d6 button.o
+ .debug_line    0x00000309      0x24b display.o
+ .debug_line    0x00000554      0x2fa eeprom_config.o
+ .debug_line    0x0000084e       0xd7 gpio.o
+ .debug_line    0x00000925      0x249 main.o
+ .debug_line    0x00000b6e      0x144 reset.o
+ .debug_line    0x00000cb2      0x2f3 rtc.o
+ .debug_line    0x00000fa5      0x22d traffic.o
+ .debug_line    0x000011d2      0x27a traffic_auto.o
+ .debug_line    0x0000144c      0x238 traffic_night.o
+ .debug_line    0x00001684      0x1e6 twi.o
+ .debug_line    0x0000186a      0xa13 uart.o
+ .debug_line    0x0000227d       0xab C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eerd_block.o)
+ .debug_line    0x00002328       0xa5 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eeupd_block.o)
+ .debug_line    0x000023cd       0xb6 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a(eeupd_byte.o)
+
+.debug_frame    0x00000000      0x760
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x98 button.o
+ .debug_frame   0x00000098       0xe4 display.o
+ .debug_frame   0x0000017c       0xac eeprom_config.o
+ .debug_frame   0x00000228       0x24 gpio.o
+ .debug_frame   0x0000024c       0x24 main.o
+ .debug_frame   0x00000270       0x44 reset.o
+ .debug_frame   0x000002b4      0x120 rtc.o
+ .debug_frame   0x000003d4       0x8c traffic.o
+ .debug_frame   0x00000460       0x6c traffic_auto.o
+ .debug_frame   0x000004cc       0x94 traffic_night.o
+ .debug_frame   0x00000560       0x74 twi.o
+ .debug_frame   0x000005d4      0x18c uart.o
+
+.debug_str      0x00000000     0x1252
+ *(.debug_str)
+ .debug_str     0x00000000      0x208 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_str     0x00000208      0x2f9 button.o
+                                0x36e (size before relaxing)
+ .debug_str     0x00000501      0x113 display.o
+                                0x2b2 (size before relaxing)
+ .debug_str     0x00000614      0x14f eeprom_config.o
+                                0x32d (size before relaxing)
+ .debug_str     0x00000763       0x25 gpio.o
+                                0x1c0 (size before relaxing)
+ .debug_str     0x00000788       0xe1 main.o
+                                0x319 (size before relaxing)
+ .debug_str     0x00000869       0x6b reset.o
+                                0x21c (size before relaxing)
+ .debug_str     0x000008d4       0xb4 rtc.o
+                                0x2ba (size before relaxing)
+ .debug_str     0x00000988       0xc2 traffic.o
+                                0x34c (size before relaxing)
+ .debug_str     0x00000a4a       0xa9 traffic_auto.o
+                                0x3b4 (size before relaxing)
+ .debug_str     0x00000af3       0x42 traffic_night.o
+                                0x385 (size before relaxing)
+ .debug_str     0x00000b35       0x1a twi.o
+                                0x1c7 (size before relaxing)
+ .debug_str     0x00000b4f      0x703 uart.o
+                                0xb45 (size before relaxing)
+
+.debug_loc      0x00000000     0x21b8
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x169 button.o
+ .debug_loc     0x00000169      0x333 display.o
+ .debug_loc     0x0000049c      0x340 eeprom_config.o
+ .debug_loc     0x000007dc       0x1e main.o
+ .debug_loc     0x000007fa      0x527 rtc.o
+ .debug_loc     0x00000d21       0xe7 traffic.o
+ .debug_loc     0x00000e08      0x41e traffic_auto.o
+ .debug_loc     0x00001226      0x22a traffic_night.o
+ .debug_loc     0x00001450       0x9e twi.o
+ .debug_loc     0x000014ee      0xcca uart.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x278
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x28 button.o
+ .debug_ranges  0x00000028       0x48 display.o
+ .debug_ranges  0x00000070       0x20 eeprom_config.o
+ .debug_ranges  0x00000090       0x10 gpio.o
+ .debug_ranges  0x000000a0       0x10 main.o
+ .debug_ranges  0x000000b0       0x20 reset.o
+ .debug_ranges  0x000000d0       0x48 rtc.o
+ .debug_ranges  0x00000118       0x40 traffic.o
+ .debug_ranges  0x00000158       0x38 traffic_auto.o
+ .debug_ranges  0x00000190       0x20 traffic_night.o
+ .debug_ranges  0x000001b0       0x38 twi.o
+ .debug_ranges  0x000001e8       0x90 uart.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(SVETOFOR V3.0.elf elf32-avr)
+LOAD linker stubs
